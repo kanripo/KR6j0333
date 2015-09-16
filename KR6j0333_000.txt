@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大樂金剛薩埵修行成就儀軌
+#+DATE: 2015-08-30 20:30:25.293451
+#+PROPERTY: JUAN 0
